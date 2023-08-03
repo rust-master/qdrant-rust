@@ -10,3 +10,5 @@ When talking to the cloud you also make sure to use ```https``` in the URL when 
 
 ```cargo run```
 
+### Qdrant Documenation:
+[Docs](https://qdrant.tech/documentation/)
